@@ -12,7 +12,7 @@
 
 Дс:https://discord.gg/HeqeVB8veH
 
-Релизы:
+🔴 Релизы:
 
 в тг:https:https://t.me/oldhorizons/4405
 
