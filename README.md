@@ -1,19 +1,22 @@
-🛰️ Old horizons - это проект который разрабатывается на Ccode.
+🛰️ Old Horizons - это проект который разрабатывается на Ccode.
 С скрытым лорам и хорошими механиками и текстурами.
 
 Спомощью этого вы можете изменить SP версии под свой стиль, а также изучить исходный код для своих проектов. 
+Его можно открыть через CCode. (https://play.google.com/store/apps/details?id=com.ganin.ccode) 
+
+Скачайте файл проекта и импортируйте его в ccode спомощью "+", готово! 
+
+🔗 Соц. Сети:
 
 Телеграм:https://t.me/oldhorizons
 
-Дс:https://discord.gg/Ap3Huct9yk
+Дс:https://discord.gg/HeqeVB8veH
 
 Релизы:
 
-в тг:https://t.me/oldhorizons/2905 
+в тг:https:https://t.me/oldhorizons/4405
 
 RusStore:https://www.rustore.ru/catalog/app/com.oldhorizons.app
-
-(0.06.1) (пока) 
 
 Трешбокс:
 https://trashbox.ru/topics/192503/old-horizons
