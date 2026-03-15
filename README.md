@@ -1,4 +1,4 @@
-🛰️ Old Horizons - это проект который разрабатывается на Ccode.
+# 🛰️ Old Horizons - это проект который разрабатывается на Ccode.
 С скрытым лорам и хорошими механиками и текстурами.
 
 Спомощью этого вы можете изменить SP версии под свой стиль, а также изучить исходный код для своих проектов. 
@@ -8,9 +8,13 @@
 
 🔗 Соц. Сети:
 
+Ютуб:https://youtube.com/@oldhorizons?si=ABBCwt0RLa2WOU97
+
 Телеграм:https://t.me/oldhorizons
 
 Дс:https://discord.gg/HeqeVB8veH
+
+Сайт:https://skybuilder1717.ru/mrgogys/oldhorizons/
 
 🔴 Релизы:
 
