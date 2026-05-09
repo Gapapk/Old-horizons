@@ -17,6 +17,7 @@
 
 *RusStore:https://www.rustore.ru/catalog/app/com.oldhorizons.app
 Трешбокс:https://trashbox.ru/topics/192503/old-horizons
+
 Game jolt:https://gamejolt.com/games/oldhorizons/980424
 Zoro Game Store:https://zoro-game.store/pages/game/game.html?id=52
 itch.io:https://gap-apk.itch.io/old-horizons*
