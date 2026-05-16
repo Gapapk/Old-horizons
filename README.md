@@ -33,3 +33,6 @@
 📀 *Zoro Game Store:https://zoro-game.store/pages/game/game.html?id=52itch.io:https://gap-apk.itch.io/old-horizons*
 
 🕹️ *itch.io:https://gap-apk.itch.io/old-horizons*
+
+
+``Игра ещё в бете и могут быть баги в следующих обновлениях будут благ-фиксы.``
