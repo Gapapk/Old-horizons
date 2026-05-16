@@ -31,3 +31,5 @@
 📼 *Game jolt:https://gamejolt.com/games/oldhorizons/980424*
 
 📀 *Zoro Game Store:https://zoro-game.store/pages/game/game.html?id=52itch.io:https://gap-apk.itch.io/old-horizons*
+
+🕹️ *itch.io:https://gap-apk.itch.io/old-horizons*
